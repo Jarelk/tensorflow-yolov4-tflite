@@ -15,7 +15,7 @@ setup(
    name='tensorflow-yolov4-tflite-setup',
    version='0.0.1',
    url='https://github.com/Jarelk/tensorflow-yolov4-tflite/',
-   python_requires='3.8.0',
+   python_requires='==3.8.0',
    description='Literally just trying to add a setup.py for easy installing',
    packages=find_packages(),
    install_requires=REQUIRED,
