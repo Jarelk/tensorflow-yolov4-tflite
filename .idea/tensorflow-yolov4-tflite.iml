@@ -9,4 +9,17 @@
     <option name="format" value="EPYTEXT" />
     <option name="myDocStringFormat" value="Epytext" />
   </component>
+  <component name="PyNamespacePackagesService">
+    <option name="namespacePackageFolders">
+      <list>
+        <option value="$MODULE_DIR$/data/anchors" />
+        <option value="$MODULE_DIR$/data/classes" />
+        <option value="$MODULE_DIR$/data/dataset" />
+        <option value="$MODULE_DIR$/data/helpers" />
+        <option value="$MODULE_DIR$/data/images" />
+        <option value="$MODULE_DIR$/data/video" />
+        <option value="$MODULE_DIR$/scripts/voc" />
+      </list>
+    </option>
+  </component>
 </module>
