@@ -6,7 +6,7 @@ REQUIRED = [
   'lxml', 
   'tqdm',
   'absl-py',
-  'matplodlib',
+  'matplotlib',
   'easydict',
   'pillow',
 ]
