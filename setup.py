@@ -1,8 +1,8 @@
-from distutils.core import setup
+from setuptools import setup
 
 setup(
-    name='tensorflow-yolov4-tflite-setup',
-    version='0.0.2',
+    name='tensorflow_yolov4',
+    version='0.0.3',
     packages=['mAP', 'run', 'core', 'data', 'scripts'],
     url='https://github.com/Jarelk/tensorflow-yolov4-tflite',
     license='MIT',
