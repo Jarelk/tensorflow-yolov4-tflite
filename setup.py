@@ -5,7 +5,7 @@ REQUIRED = [
   'opencv-python==4.5.1.48',
   'lxml', 
   'tqdm',
-  'absl-y',
+  'absl-py',
   'matplodlib',
   'easydict',
   'pillow',
